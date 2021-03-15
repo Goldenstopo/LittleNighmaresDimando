@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admob",
+			"NetworkAds": "unity",
 
 			"BannerAdmob": "ca-app-pub-8586742469355450/5393596904",
 			"InterstitialAdmob1": "ca-app-pub-8586742469355450/4080515234",
@@ -12,13 +12,13 @@
 			"InterstitialAdmob4": "ca-app-pub-8586742469355450/8865782178",
 			"NativeAdmob": "ca-app-pub-8586742469355450/6403270362",
 
-			"BannerFacebook": "1903478463740499_903478867073792",
-			"InterstitialFacebook1": "1903478463740499_903479267073752",
-			"InterstitialFacebook2": "1903478463740499_903643633723982",
-			"InterstitialFacebook3": "1903478463740499_903643917057287",
-			"InterstitialFacebook4": "1903478463740499_903644137057265",
-			"NativeFacebook": "1903478463740499_903479433740402",
-			"BannerNativeFacebook": "1903478463740499_903644410390571",
+			"BannerFacebook": "903478463740499_903478867073792",
+			"InterstitialFacebook1": "903478463740499_903479267073752",
+			"InterstitialFacebook2": "903478463740499_903643633723982",
+			"InterstitialFacebook3": "903478463740499_903643917057287",
+			"InterstitialFacebook4": "903478463740499_903644137057265",
+			"NativeFacebook": "903478463740499_903479433740402",
+			"BannerNativeFacebook": "903478463740499_903644410390571",
 			
 			"unityGameID":"4009875",
 			"BannerUnity":"diamondspamulabanner",
