@@ -3,22 +3,22 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "unity",
+			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-2337067692403283/6881715309",
-			"InterstitialAdmob1": "ca-app-pub-2337067692403283/3907411066",
-			"InterstitialAdmob2": "ca-app-pub-2337067692403283/1629388628",
-			"InterstitialAdmob3": "ca-app-pub-2337067692403283/5028921041",
-			"InterstitialAdmob4": "ca-app-pub-2337067692403283/7463512690",
-			"NativeAdmob": "ca-app-pub-2337067692403283/4837349353",
+			"BannerAdmob": "ca-app-pub-8586742469355450/5393596904",
+			"InterstitialAdmob1": "ca-app-pub-8586742469355450/4080515234",
+			"InterstitialAdmob2": "ca-app-pub-8586742469355450/5118108850",
+			"InterstitialAdmob3": "ca-app-pub-8586742469355450/5804504562",
+			"InterstitialAdmob4": "ca-app-pub-8586742469355450/8865782178",
+			"NativeAdmob": "ca-app-pub-8586742469355450/6403270362",
 
-			"BannerFacebook": "253774966397598_253775156397579",
-			"InterstitialFacebook1": "253774966397598_253775576397537",
-			"InterstitialFacebook2": "253774966397598_253775979730830",
-			"InterstitialFacebook3": "253774966397598_253776376397457",
-			"InterstitialFacebook4": "253774966397598_253776696397425",
-			"NativeFacebook": "253774966397598_253777036397391",
-			"BannerNativeFacebook": "253774966397598_253777426397352",
+			"BannerFacebook": "903478463740499_903478867073792",
+			"InterstitialFacebook1": "903478463740499_903479267073752",
+			"InterstitialFacebook2": "903478463740499_903643633723982",
+			"InterstitialFacebook3": "903478463740499_903643917057287",
+			"InterstitialFacebook4": "903478463740499_903644137057265",
+			"NativeFacebook": "903478463740499_903479433740402",
+			"BannerNativeFacebook": "903478463740499_903644410390571",
 			
 			"unityGameID":"4009875",
 			"BannerUnity":"diamondspamulabanner",
