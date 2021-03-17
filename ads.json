@@ -5,11 +5,11 @@
 			
 			"NetworkAds": "admob",
 
-			"BannerAdmob": "ca-app-pub-8586742469355450/5393596904",
-			"InterstitialAdmob1": "ca-app-pub-8586742469355450/4080515234",
-			"InterstitialAdmob2": "ca-app-pub-8586742469355450/5118108850",
-			"InterstitialAdmob3": "ca-app-pub-8586742469355450/5804504562",
-			"InterstitialAdmob4": "ca-app-pub-8586742469355450/8865782178",
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
 			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
 			"BannerFacebook": "903478463740499_903478867073792",
